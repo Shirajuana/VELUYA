@@ -1,0 +1,15 @@
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_HERON\bin\Debug\net8.0\PS_03_HERON.exe
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_HERON\bin\Debug\net8.0\PS_03_HERON.deps.json
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_HERON\bin\Debug\net8.0\PS_03_HERON.runtimeconfig.json
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_HERON\bin\Debug\net8.0\PS_03_HERON.dll
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_HERON\bin\Debug\net8.0\PS_03_HERON.pdb
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_HERON\obj\Debug\net8.0\PS_03_HERON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_HERON\obj\Debug\net8.0\PS_03_HERON.AssemblyInfoInputs.cache
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_HERON\obj\Debug\net8.0\PS_03_HERON.AssemblyInfo.cs
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_HERON\obj\Debug\net8.0\PS_03_HERON.csproj.CoreCompileInputs.cache
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_HERON\obj\Debug\net8.0\PS_03_HERON.sourcelink.json
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_HERON\obj\Debug\net8.0\PS_03_HERON.dll
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_HERON\obj\Debug\net8.0\refint\PS_03_HERON.dll
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_HERON\obj\Debug\net8.0\PS_03_HERON.pdb
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_HERON\obj\Debug\net8.0\PS_03_HERON.genruntimeconfig.cache
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_HERON\obj\Debug\net8.0\ref\PS_03_HERON.dll
