@@ -1,0 +1,15 @@
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_LEAPYEAR\bin\Debug\net8.0\PS_03_LEAPYEAR.exe
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_LEAPYEAR\bin\Debug\net8.0\PS_03_LEAPYEAR.deps.json
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_LEAPYEAR\bin\Debug\net8.0\PS_03_LEAPYEAR.runtimeconfig.json
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_LEAPYEAR\bin\Debug\net8.0\PS_03_LEAPYEAR.dll
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_LEAPYEAR\bin\Debug\net8.0\PS_03_LEAPYEAR.pdb
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_LEAPYEAR\obj\Debug\net8.0\PS_03_LEAPYEAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_LEAPYEAR\obj\Debug\net8.0\PS_03_LEAPYEAR.AssemblyInfoInputs.cache
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_LEAPYEAR\obj\Debug\net8.0\PS_03_LEAPYEAR.AssemblyInfo.cs
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_LEAPYEAR\obj\Debug\net8.0\PS_03_LEAPYEAR.csproj.CoreCompileInputs.cache
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_LEAPYEAR\obj\Debug\net8.0\PS_03_LEAPYEAR.sourcelink.json
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_LEAPYEAR\obj\Debug\net8.0\PS_03_LEAPYEAR.dll
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_LEAPYEAR\obj\Debug\net8.0\refint\PS_03_LEAPYEAR.dll
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_LEAPYEAR\obj\Debug\net8.0\PS_03_LEAPYEAR.pdb
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_LEAPYEAR\obj\Debug\net8.0\PS_03_LEAPYEAR.genruntimeconfig.cache
+C:\Users\Mike Christian\Source\Repos\VELUYA\PS_03_LEAPYEAR\obj\Debug\net8.0\ref\PS_03_LEAPYEAR.dll
