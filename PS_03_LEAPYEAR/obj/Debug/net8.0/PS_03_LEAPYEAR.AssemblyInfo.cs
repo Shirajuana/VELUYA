@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PS_03_LEAPYEAR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31cc895d0e4440ee18f3741decb38ff7a692b727")]
 [assembly: System.Reflection.AssemblyProductAttribute("PS_03_LEAPYEAR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PS_03_LEAPYEAR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
